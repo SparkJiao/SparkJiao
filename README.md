@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+
+[![Akari's github stats](https://github-readme-stats.vercel.app/api?username=SparkJiao&show_icons=true)](https://github.com/SparkJiao/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SparkJiao&hide=jupyter%20notebook,tex&langs_count=10&layout=compact)](https://github.com/SparkJiao/github-readme-stats)
+
 
 <!--
 **SparkJiao/SparkJiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
