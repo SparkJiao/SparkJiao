@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- 🌱 I’m a PhD student at Nanyang Technological University and the Institute for Infocomm Research (I2R), A*STAR.
+- 🌱 I’m a PhD candidate at Nanyang Technological University and the Institute for Infocomm Research (I2R), A*STAR.
 - 🔭 I’m currently working on machine reading comprehension and reasoning.
 
 [![Fangkai's github stats](https://github-readme-stats.vercel.app/api?username=SparkJiao&show_icons=true)](https://github.com/SparkJiao/github-readme-stats)
