@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 - 🌱 I’m a PhD candidate at Nanyang Technological University and the Institute for Infocomm Research (I2R), A*STAR.
-- 🔭 I’m currently working on machine reading comprehension and reasoning.
+- 🔭 I’m currently working on machine reasoning with LLMs.
 
 Here are some projects that I lead or contribute to:
 
