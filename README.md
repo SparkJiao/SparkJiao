@@ -5,6 +5,7 @@
 
 Here are some projects that I lead or contribute to:
 
+- [StructTest](https://github.com/SparkJiao/StructTest): An automatic evaluation toolkit serving as a proxy for reasoning capability. Extensible and robust for data contamination.
 - [PFPO](https://github.com/microsoft/unilm/tree/master/PFPO): The source code for our work: Preference Optimization for Reasoning with Pseudo Feedback (ICLR 2025).
 - [ProcessDPO](https://github.com/SparkJiao/dpo-trajectory-reasoning): The source code for our EMNLP work with outstanding paper award: Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing.
 - [LLMSanitize](https://github.com/ntunlp/LLMSanitize): Our developed tool for detection of data contamination in Large Langauge Models.
